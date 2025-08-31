@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BrainUnplugged</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on BrainUnplugged</description>
+    <image>
+      <title>BrainUnplugged</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en</language>
+    <copyright>Brain Unplugged by Peyo</copyright>
+    <lastBuildDate>Wed, 14 Apr 2021 09:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CentOS7 yum - Remove subscription-Manager nag</title>
+      <link>http://localhost:1313/posts/centos7_yum-remove_subscription-manager_nag/</link>
+      <pubDate>Wed, 14 Apr 2021 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/centos7_yum-remove_subscription-manager_nag/</guid>
+      <description>CentOS 7 gives a nag about the subscription-manager when using yum. If you&amp;#39;re annoyed by that, here&amp;#39;s how to remove it.</description>
+    </item>
+    <item>
+      <title>Sed remove ANSI color codes for easy parsing</title>
+      <link>http://localhost:1313/posts/sed_remove_ansi_color_codes_for_parsing/</link>
+      <pubDate>Mon, 12 Apr 2021 09:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/sed_remove_ansi_color_codes_for_parsing/</guid>
+      <description>Here&amp;#39;s how to remove color codes to ease a parsing.</description>
+    </item>
+  </channel>
+</rss>
